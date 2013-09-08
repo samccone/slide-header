@@ -1,0 +1,10 @@
+{
+  "name": "smart-header",
+  "description": "a modern modular header",
+  "author": "Sam Saccone <sam@samx.it>",
+  "devDependencies": {
+    "colors": "latest",
+    "uglify-js": "latest",
+    "coffee-script": "latest"
+  }
+}
