@@ -13,7 +13,6 @@
     "Cakefile"
   ],
   "devDependencies": {
-    "colors": "latest",
     "uglify-js": "latest",
     "coffee-script": "latest"
   }
