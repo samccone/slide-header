@@ -2,11 +2,11 @@
   "name": "smart-header",
   "description": "a modern modular header",
   "author": "Sam Saccone <sam@samx.it>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": [
     "./slide-header.js",
     "./directive.js"
-  ]
+  ],
   "ignore": [
     "src",
     "demo",
